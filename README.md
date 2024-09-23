@@ -1,4 +1,5 @@
 Budget Tracker App
+
 A simple budget tracker built with HTML, CSS, and Vanilla JavaScript. This app allows users to add expenses, categorize them, and track their spending. This project is designed as a starting point for students to further develop and enhance, adding features like local storage, data filtering, and running totals.
 
 Features
